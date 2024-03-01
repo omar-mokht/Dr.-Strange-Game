@@ -1,5 +1,7 @@
 # Final Project: Strange Battle
 
+**Link to Video: https://www.youtube.com/watch?v=pz4rgUYJ8hY**
+
 ## Project Overview
 Strange battle is a 2D 1v1 game where players cast battle each other through spells to win. Each player has 4 different spells that they can cast. The spells are pulse, beam, defend and special attack. 
 The spell selection interface was inpired from 'Dr. Strange', and we implemented the same through computer vision using OpenCV and mediapipe. The game is Godot, an open source game engine.
